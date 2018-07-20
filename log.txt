@@ -1,0 +1,32 @@
+
+spotify-this-song
+Artist: Ace of Base
+Song: The Sign
+Song Preview: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Album: The Sign (US Album) [Remastered]
+spotify-this-song
+Artist: Toby Fox
+Song: ASGORE
+Song Preview: https://open.spotify.com/track/6WGfFSAlpAmX9MkJISNE2z
+Album: UNDERTALE Soundtrack
+movie-this
+
+movie-this
+Title: Shrek
+Year: 2001
+IMDB Rating: 7.9
+RT Rating: 88%
+Country: USA
+Language: English
+Plot: After his swamp is filled with magical creatures, Shrek agrees to rescue Princess Fiona for a villainous lord in order to get his land back.
+Main Actors: Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow
+movie-this
+Title: Shrek
+Year: 2001
+IMDB Rating: 7.9
+RT Rating: 88%
+Country: USA
+Language: English
+Plot: After his swamp is filled with magical creatures, Shrek agrees to rescue Princess Fiona for a villainous lord in order to get his land back.
+Main Actors: Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow
+movie-this
