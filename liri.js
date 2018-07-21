@@ -4,7 +4,7 @@ var keys = require("./keys.js");
 var Spotify = require('node-spotify-api');
 var Twitter = require("twitter")
 var fs = require('fs');
-var nodeArgs = process.argv.slice(2,4)
+var nodeArgs = [process.argv[2], (process.argv.slice(3, process.argv.length)).join(' ')]
 
 var spotify = new Spotify(keys.spotify);
 var client = new Twitter(keys.twitter);
